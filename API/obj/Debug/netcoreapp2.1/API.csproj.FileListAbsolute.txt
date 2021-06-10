@@ -12,3 +12,17 @@ D:\AP Updated\3EA\DEVOPS\API - learningv2\obj\Debug\netcoreapp2.1\API.AssemblyIn
 D:\AP Updated\3EA\DEVOPS\API - learningv2\obj\Debug\netcoreapp2.1\API.RazorTargetAssemblyInfo.cache
 D:\AP Updated\3EA\DEVOPS\API - learningv2\obj\Debug\netcoreapp2.1\API.dll
 D:\AP Updated\3EA\DEVOPS\API - learningv2\obj\Debug\netcoreapp2.1\API.pdb
+D:\AP Updated\3EA\DEVOPS\BrianVanBogaert DEVOPS Boeken\Devops-experiment\API\bin\Debug\netcoreapp2.1\API.deps.json
+D:\AP Updated\3EA\DEVOPS\BrianVanBogaert DEVOPS Boeken\Devops-experiment\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.json
+D:\AP Updated\3EA\DEVOPS\BrianVanBogaert DEVOPS Boeken\Devops-experiment\API\bin\Debug\netcoreapp2.1\API.runtimeconfig.dev.json
+D:\AP Updated\3EA\DEVOPS\BrianVanBogaert DEVOPS Boeken\Devops-experiment\API\bin\Debug\netcoreapp2.1\API.dll
+D:\AP Updated\3EA\DEVOPS\BrianVanBogaert DEVOPS Boeken\Devops-experiment\API\bin\Debug\netcoreapp2.1\API.pdb
+D:\AP Updated\3EA\DEVOPS\BrianVanBogaert DEVOPS Boeken\Devops-experiment\API\obj\Debug\netcoreapp2.1\API.csprojAssemblyReference.cache
+D:\AP Updated\3EA\DEVOPS\BrianVanBogaert DEVOPS Boeken\Devops-experiment\API\obj\Debug\netcoreapp2.1\API.csproj.CoreCompileInputs.cache
+D:\AP Updated\3EA\DEVOPS\BrianVanBogaert DEVOPS Boeken\Devops-experiment\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cache
+D:\AP Updated\3EA\DEVOPS\BrianVanBogaert DEVOPS Boeken\Devops-experiment\API\obj\Debug\netcoreapp2.1\API.RazorAssemblyInfo.cs
+D:\AP Updated\3EA\DEVOPS\BrianVanBogaert DEVOPS Boeken\Devops-experiment\API\obj\Debug\netcoreapp2.1\API.AssemblyInfoInputs.cache
+D:\AP Updated\3EA\DEVOPS\BrianVanBogaert DEVOPS Boeken\Devops-experiment\API\obj\Debug\netcoreapp2.1\API.AssemblyInfo.cs
+D:\AP Updated\3EA\DEVOPS\BrianVanBogaert DEVOPS Boeken\Devops-experiment\API\obj\Debug\netcoreapp2.1\API.RazorTargetAssemblyInfo.cache
+D:\AP Updated\3EA\DEVOPS\BrianVanBogaert DEVOPS Boeken\Devops-experiment\API\obj\Debug\netcoreapp2.1\API.dll
+D:\AP Updated\3EA\DEVOPS\BrianVanBogaert DEVOPS Boeken\Devops-experiment\API\obj\Debug\netcoreapp2.1\API.pdb
