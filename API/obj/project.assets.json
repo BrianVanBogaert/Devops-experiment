@@ -12606,11 +12606,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\AP Updated\\3EA\\DEVOPS\\API - learningv2\\API.csproj",
+      "projectUniqueName": "D:\\AP Updated\\3EA\\DEVOPS\\BrianVanBogaert DEVOPS Boeken\\Devops-experiment\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "D:\\AP Updated\\3EA\\DEVOPS\\API - learningv2\\API.csproj",
+      "projectPath": "D:\\AP Updated\\3EA\\DEVOPS\\BrianVanBogaert DEVOPS Boeken\\Devops-experiment\\API\\API.csproj",
       "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-      "outputPath": "D:\\AP Updated\\3EA\\DEVOPS\\API - learningv2\\obj\\",
+      "outputPath": "D:\\AP Updated\\3EA\\DEVOPS\\BrianVanBogaert DEVOPS Boeken\\Devops-experiment\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
